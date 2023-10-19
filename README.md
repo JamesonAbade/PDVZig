@@ -1,8 +1,8 @@
-# ZigMoney
+
 Relatório de vendas simples, rápido e acessível!
 
 # Descrição
-O ZigMoney é um projeto que visa ajudar pequenos comércios e comerciantes que precisam registrar
+É um projeto que visa ajudar pequenos comércios e comerciantes que precisam registrar
 suas vendas diárias de forma simples e organizada. Trata-se de um sistema web escrito em PHP e Mysql.
 O intuito é disponibilizar uma plataforma com módulos que facilite e potencialize o controle de informações
 de vendas totalmente online.
@@ -11,8 +11,6 @@ de vendas totalmente online.
 🚀 Estamos trabalhando no modulo de fluxo de caixa! 
 <hr>
 
-Simpatizou com o projeto? Quer fazer uma doação via Pix? Não seja tímido, Ajude o nosso projeto! <br>
-Chave Pix: zigmoneypdv@hotmail.com
 
 <hr>
 
@@ -47,6 +45,6 @@ Que tal nos ajudar nesta empreitada?
 # Instalação
 
 Você pode conferir a
-[nossa documentação](https://github.com/valdiney/zig/blob/master/docs/instalacao.md) <br>
-Veja nosso video no [youtube](https://www.youtube.com/watch?v=-AOfhCkwYtw)
-# PDVZig
+[nossa documentação](https://github.com/JamesonAbade/PDVZig/blob/main/docs/instalacao.md) <br>
+
+
